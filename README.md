@@ -28,3 +28,14 @@ Adjust [bin/create-involute-gear-collection.sh](bin/create-involute-gear-collect
 $ editor bin/create-involute-gear-collection.sh
 $ ./update.sh
 ```
+
+## warning
+
+* this is an early release
+* expect errors
+* do not use these gears for production
+
+## credits
+
+* Dr. Rainer Hessmer's blog – [Online Involute Spur Gear Builder](http://www.hessmer.org/blog/2014/01/01/online-involute-spur-gear-builder/)
+
